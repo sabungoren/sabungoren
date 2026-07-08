@@ -43,7 +43,7 @@ Beyond the screen, I thrive on balance: you'll often find me hitting the gym for
 ### 📈 GitHub Stats
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=sabungoren&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabungoren&show_icons=true&theme=tokyonight)" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sabungoren&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
 
 ---
