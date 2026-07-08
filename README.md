@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Brun! 🚀</h1>
+  <h1>👾 Hi there, I'm Shobrun! 🚀</h1>
   <h3>Software Developer | Game Programmer | Computer Vision Enthusiast</h3>
   <p><i>"Translating complex logic into interactive experiences."</i></p>
 </div>
