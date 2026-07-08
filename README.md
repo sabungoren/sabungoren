@@ -1,30 +1,46 @@
-# Hi there, I'm Brun! 👋 🎮
+<div align="center">
+  <h1>Hi there, I'm Brun! 🚀</h1>
+  <h3>Software Developer | Game Programmer | Computer Vision Enthusiast</h3>
+  <p><i>"Translating complex logic into interactive experiences."</i></p>
+</div>
 
-I'm an Information Technology student at the State University of Surabaya (UNESA) with a massive passion for bringing digital worlds to life through Game Development. I love turning complex logic into fun, interactive experiences!
+<br>
 
-### 🎯 What I'm Up To
-- 🎓 Currently studying IT (Class of TI-2024E).
-- 💻 Building mechanics and polishing my skills in **Unity**, **Godot**, and **Construct 3**.
-- 🚀 Actively looking for a **Game Development Internship** to apply my skills in the industry.
-- 🗣️ Constantly improving my English proficiency. 
+### 👨‍💻 About Me
+I'm an Information Technology student at the State University of Surabaya (UNESA) with a deep fascination for algorithms, mathematics, and creative problem-solving. My technical journey is driven by a desire to build seamless mechanics, whether it's optimizing an enemy AI in a game or tracking real-time movements through a camera.
 
-### 🛠️ Tech Stack & Tools
+Beyond the screen, I thrive on balance: you'll often find me playing in an orchestra, or hitting the gym for a heavy powerbuilding session. 
+
+### 🎯 Core Focus
+*   🎮 **Game Development:** Actively building interactive 2D/3D games and robust gameplay mechanics using **Unity**, **Godot**, and **Construct 3**. I am currently preparing to step into the professional game industry and am open to internship opportunities.
+*   👁️ **Image Processing & Computer Vision:** Experienced in developing computer vision logic, specifically utilizing **YOLO** and **MediaPipe** for object detection and pose tracking.
+
+---
+
+### 🛠️ Tech Stack & Arsenal
+
 <p align="left">
+  <!-- Languages -->
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/GDScript-%23303030.svg?style=for-the-badge&logo=godotengine&logoColor=white" alt="GDScript" />
-  <br>
+</p>
+<p align="left">
+  <!-- Game Dev & Engines -->
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white" alt="Godot" />
 </p>
-
-### 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabungoren&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <!-- AI & Computer Vision -->
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/MediaPipe-00A67E?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" />
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=YOLO&logoColor=black" alt="YOLO" />
 </p>
 
-### ⚡ Fun Facts About Me
-- When I'm not debugging code, you can find me lifting heavy weights (powerbuilding is my therapy! 🏋️‍♂️).
-- I'm a huge anime and manga fan—my code is occasionally fueled by *Chainsaw Man* or *Jujutsu Kaisen* soundtracks.
-- I enjoy cooking Indonesian home-style meals for my friends and team! 🍳
+---
+
+### 📈 GitHub Stats
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sabungoren&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+</div>
