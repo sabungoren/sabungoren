@@ -21,7 +21,7 @@ I'm an Information Technology student at the State University of Surabaya (UNESA
 
 ### 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabungoren&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SABUNGOREN&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ### ⚡ Fun Facts About Me
