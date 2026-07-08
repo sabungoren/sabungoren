@@ -74,7 +74,9 @@ Beyond the screen, I thrive on balance: you'll often find me hitting the gym for
   <!-- BARIS KEEMPAT: ISI DATA 3 -->
   <tr>
     <td align="center"><b>📋 Management</b></td>
-    <td><b>Event Coordinator</b><br>Equipment Coordinator untuk Pawsitive Connection (Mei 2026) & Panitia EFASCO (2025).</td>
+    <td><b>Fungsionaris Badan Eksekutif Mahasiswa Fakultas Teknik UNESA</b><br>Staff Divisi Seni dan Olahraga (SENOR)</td>
     <td>Teamwork, Logistics, Planning</td>
+    <td><b>Member of JAGASATWA UNESA</b><br>Staff Rescue and Develoment (RnD)</td>
+    <td>Teamwork, Planning, Animal Care</td>
   </tr>
 </table>
