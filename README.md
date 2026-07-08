@@ -67,9 +67,13 @@ Beyond the screen, I thrive on balance: you'll often find me hitting the gym for
 
   <!-- BARIS KETIGA: ISI DATA 2 -->
   <tr>
-    <td align="center"><b>🎮 Game Dev</b></td>
+    <td rowspan="2" align="center"><b>🎮 Game Dev</b></td>
     <td><b>3D Third-Person Shooter</b><br>Membangun mekanik game TPS, implementasi animasi humanoid, dan sistem <i>physics</i> peluru.</td>
     <td>Unity, C#</td>
+  </tr>
+  <tr>
+    <td><b>Fall Of Silence (2D Game)</b><br>A 2D Metroidvania game with pixel graphics </td>
+    <td>Godot, GDScript</td>
   </tr>
 
   <!-- BARIS KEEMPAT: ISI DATA 3 -->
