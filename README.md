@@ -60,8 +60,8 @@ Beyond the screen, I thrive on balance: you'll often find me hitting the gym for
   <!-- BARIS KEDUA: ISI DATA 1 -->
   <tr>
     <td align="center"><b>👁️ Computer Vision</b></td>
-    <td><b>Object & Pose Tracking</b><br>Mengembangkan sistem deteksi menggunakan model pemrosesan citra.</td>
-    <td>YOLO, MediaPipe, Python</td>
+    <td><b>Gym Vision</b><br>Mengembangkan sistem deteksi gerakan tubuh dengan mencatat kordinat pergerakan tiap anggota tubuh setiap framenya</td>
+    <td>YOLO, MediaPipe, Python, API AI (Gemini, Grock)</td>
   </tr>
 
   <!-- BARIS KETIGA: ISI DATA 2 -->
@@ -74,11 +74,11 @@ Beyond the screen, I thrive on balance: you'll often find me hitting the gym for
   <!-- BARIS KEEMPAT: ISI DATA 3 -->
   <tr>
     <td rowspan="2" align="center"><b>📋 Management</b></td>
-    <td><b>Fungsionaris Badan Eksekutif Mahasiswa Fakultas Teknik UNESA</b><br>Staff Divisi Seni dan Olahraga (SENOR)</td>
+    <td><b>Fungsionaris BEM FT UNESA (2025)</b><br>Badan Eksekutif Mahasiswa Fakultas Teknik UNESA, Staff Divisi Seni dan Olahraga (SENOR)</td>
     <td>Teamwork, Logistics, Planning</td>
   </tr>
   <tr>
-    <td><b>Member of JAGASATWA UNESA</b><br>Staff Rescue and Develoment (RnD)</td>
+    <td><b>Member of JAGASATWA UNESA (2026)</b><br>Staff Rescue and Develoment (RnD)</td>
     <td>Teamwork, Planning, Animal Care</td>
   </tr>
 </table>
