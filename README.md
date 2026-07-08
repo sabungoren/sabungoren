@@ -73,9 +73,11 @@ Beyond the screen, I thrive on balance: you'll often find me hitting the gym for
 
   <!-- BARIS KEEMPAT: ISI DATA 3 -->
   <tr>
-    <td align="center"><b>📋 Management</b></td>
+    <td rowspan="2" align="center"><b>📋 Management</b></td>
     <td><b>Fungsionaris Badan Eksekutif Mahasiswa Fakultas Teknik UNESA</b><br>Staff Divisi Seni dan Olahraga (SENOR)</td>
     <td>Teamwork, Logistics, Planning</td>
+  </tr>
+  <tr>
     <td><b>Member of JAGASATWA UNESA</b><br>Staff Rescue and Develoment (RnD)</td>
     <td>Teamwork, Planning, Animal Care</td>
   </tr>
