@@ -9,7 +9,7 @@
 ### 👨‍💻 About Me
 I'm an Information Technology student at the State University of Surabaya (UNESA) with a deep fascination for algorithms, mathematics, and creative problem-solving. My technical journey is driven by a desire to build seamless mechanics, whether it's optimizing an enemy AI in a game or tracking real-time movements through a camera.
 
-Beyond the screen, I thrive on balance: you'll often find me playing in an orchestra, or hitting the gym for a heavy powerbuilding session. 
+Beyond the screen, I thrive on balance: you'll often find me hitting the gym for a heavy powerbuilding session or cooking
 
 ### 🎯 Core Focus
 *   🎮 **Game Development:** Actively building interactive 2D/3D games and robust gameplay mechanics using **Unity**, **Godot**, and **Construct 3**. I am currently preparing to step into the professional game industry and am open to internship opportunities.
@@ -44,3 +44,37 @@ Beyond the screen, I thrive on balance: you'll often find me playing in an orche
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=sabungoren&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 </div>
+
+---
+
+### 🏆 Highlighted Projects & Experience
+
+<table>
+  <!-- BARIS PERTAMA: JUDUL KOLOM (Table Head) -->
+  <tr>
+    <th width="20%">Kategori</th>
+    <th width="45%">Nama Proyek / Peran</th>
+    <th width="35%">Tech Stack / Skills</th>
+  </tr>
+
+  <!-- BARIS KEDUA: ISI DATA 1 -->
+  <tr>
+    <td align="center"><b>👁️ Computer Vision</b></td>
+    <td><b>Object & Pose Tracking</b><br>Mengembangkan sistem deteksi menggunakan model pemrosesan citra.</td>
+    <td>YOLO, MediaPipe, Python</td>
+  </tr>
+
+  <!-- BARIS KETIGA: ISI DATA 2 -->
+  <tr>
+    <td align="center"><b>🎮 Game Dev</b></td>
+    <td><b>3D Third-Person Shooter</b><br>Membangun mekanik game TPS, implementasi animasi humanoid, dan sistem <i>physics</i> peluru.</td>
+    <td>Unity, C#</td>
+  </tr>
+
+  <!-- BARIS KEEMPAT: ISI DATA 3 -->
+  <tr>
+    <td align="center"><b>📋 Management</b></td>
+    <td><b>Event Coordinator</b><br>Equipment Coordinator untuk Pawsitive Connection (Mei 2026) & Panitia EFASCO (2025).</td>
+    <td>Teamwork, Logistics, Planning</td>
+  </tr>
+</table>
